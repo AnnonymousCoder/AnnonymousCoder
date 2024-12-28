@@ -6,8 +6,9 @@ Am also seeking to improve my skills in embedded and software design so if you d
 
 
 ### Projects In Progress:
-
-
+ - Matrix 8x8 LED Display
+ - DTMF Signal Decoder
+ - Motivation App
 
 ### Completed Projects:
 
