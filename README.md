@@ -11,7 +11,9 @@ Am also seeking to improve my skills in embedded and software design so if you d
  - Motivation App
 
 ### Completed Projects:
-
+ - [ ] Matrix 8x8 LED Display
+ - [ ] DTMF Signal Decoder
+ - [ ] Motivation App
 
 ### How to reach me:
   - gmail -> bmanonly2030@gmail.com
