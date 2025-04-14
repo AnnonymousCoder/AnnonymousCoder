@@ -11,7 +11,9 @@ Am also seeking to improve my skills in embedded and software design so if you d
  - Motivation App
 
 ### Completed Projects:
- - **_( None For Now )_**
+ - Simple Pong
+ - CNN Classifier for Handwritten Digit, Cats and Dogs.
+ - Red light Green Light (A squid game replica)
  
 ### How to reach me:
   - gmail -> bmanonly2030@gmail.com
