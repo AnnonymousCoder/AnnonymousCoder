@@ -16,7 +16,7 @@ Am also seeking to improve my skills in embedded and software design so if you d
  - Red light Green Light (A squid game replica)
  
 ### How to reach me:
-  - gmail -> bmanonly2030@gmail.com
+  - gmail -> matthewmwangi52@gmail.com
 
 <!--
 **AnnonymousCoder/AnnonymousCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
